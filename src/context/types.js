@@ -1,0 +1,7 @@
+export const GET_PROFILES = 'GET_PROFILES';
+export const PROFILE_ERROR = 'PROFILE_ERROR';
+export const FILTER_GENDER = 'FILTER_GENDER';
+export const FILTER_CARD = 'FILTER_CARD';
+export const FILTER_NAME = 'FILTER_NAME';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
+export const CLEAR_ERRORS = 'CLEAR_ERRORS';
