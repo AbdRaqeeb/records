@@ -6,4 +6,4 @@
 
 - Technology - React
 
-> Application can be viewed [here](https://records-ng.netlify.app)
+### Application can be viewed [here](https://records-ng.netlify.app)
